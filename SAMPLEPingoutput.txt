@@ -1,0 +1,55 @@
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 35.542/88.286/137.168/35.187 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 42.621/86.285/136.799/30.093 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 40.289/88.624/130.786/28.363 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 37.182/85.185/129.494/27.294 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9005ms
+rtt min/avg/max/mdev = 47.409/88.658/129.259/28.196 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 35.245/86.059/125.551/27.758 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 9 received, 10% packet loss, time 9009ms
+rtt min/avg/max/mdev = 53.556/97.506/147.932/28.215 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 31.000/83.036/123.994/28.437 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 46.457/91.972/131.710/28.103 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 38.301/85.599/138.205/30.272 ms
+PING 192.168.14.47 (192.168.14.47) 56(84) bytes of data.
+
+--- 192.168.14.47 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 43.462/107.286/208.730/50.566 ms

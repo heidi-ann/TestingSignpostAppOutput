@@ -1,0 +1,55 @@
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+I/SIGPST  (  523): Signpost Demo Activity. GUI created and resources allocated
+I/SIGPST  (  523): Start button pressed
+I/SIGPST  (  523): OnDestroy: release wakelock
+I/SIGPST  (  523): Signpost Demo Activity. GUI created and resources allocated
+I/SIGPST  (  523): OnDestroy: release wakelock
+I/SIGPST  (  523): Signpost Demo Activity. GUI created and resources allocated
+I/SIGPST  (  523): Start button pressed
+I/SIGPST  (  523): Received Latency Upstream: 6000
+I/SIGPST  (  523): Received Goodput Downstream: 3015
+I/SIGPST  (  523): Received Latency Downstream: 8887
+I/SIGPST  (  523): OnDestroy: release wakelock
+I/SIGPST  (  523): Signpost Demo Activity. GUI created and resources allocated
+I/SIGPST  (  523): Received Latency Upstream: 17500
+I/SIGPST  (  523): Received Goodput Downstream: 2545
+I/SIGPST  (  523): Received Latency Downstream: 5890
+I/SIGPST  (  523): Received Goodput Downstream: 1528321
+I/SIGPST  (  523): Received Latency Upstream: 91000
+I/SIGPST  (  523): Received Goodput Downstream: 3946
+I/SIGPST  (  523): Received Latency Downstream: 8828
+I/SIGPST  (  523): Received Latency Upstream: 78000
+I/SIGPST  (  523): Received Goodput Downstream: 4605
+I/SIGPST  (  523): Received Latency Downstream: 31006
+I/SIGPST  (  523): Received Latency Upstream: 64000
+I/SIGPST  (  523): Received Goodput Downstream: 4566
+I/SIGPST  (  523): Received Latency Downstream: 35048
+I/SIGPST  (  523): Received Latency Upstream: 45500
+I/SIGPST  (  523): Received Goodput Downstream: 3636
+I/SIGPST  (  523): Received Latency Downstream: 8653
+I/SIGPST  (  523): Received Goodput Downstream: 491392
+I/SIGPST  (  523): Received Latency Upstream: 108500
+I/SIGPST  (  523): Received Goodput Downstream: 2813
+I/SIGPST  (  523): Received Latency Downstream: 20946
+I/SIGPST  (  523): Received Latency Upstream: 52500
+I/SIGPST  (  523): Received Goodput Downstream: 4369
+I/SIGPST  (  523): Received Latency Downstream: 10294
+I/SIGPST  (  523): Received Latency Upstream: 85500
+I/SIGPST  (  523): Received Goodput Downstream: 4018
+I/SIGPST  (  523): Received Latency Downstream: 12235
+I/SIGPST  (  523): Received Latency Upstream: 48500
+I/SIGPST  (  523): Received Goodput Downstream: 1929
+I/SIGPST  (  523): Received Latency Downstream: 6868
+I/SIGPST  (  523): Received Latency Upstream: 88500
+I/SIGPST  (  523): Received Goodput Downstream: 3651
+I/SIGPST  (  523): Received Latency Downstream: 8556
+I/SIGPST  (  523): Received Latency Upstream: 198500
+I/SIGPST  (  523): Received Goodput Downstream: 5121
+I/SIGPST  (  523): Received Latency Downstream: 128416
+I/SIGPST  (  523): Received Latency Upstream: 84500
+I/SIGPST  (  523): Received Goodput Downstream: 4415
+I/SIGPST  (  523): Received Latency Downstream: 36666
+I/SIGPST  (  523): Received Latency Upstream: 66000
+I/SIGPST  (  523): Received Goodput Downstream: 4094
+I/SIGPST  (  523): Received Latency Downstream: 6900
